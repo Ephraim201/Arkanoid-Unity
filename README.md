@@ -1,7 +1,10 @@
 # Arkanoid-Unity
 Otro de mis juegos creados mientras estaba en el Grado Superior, Arkanoid un juego centrado en controlar una pequeña plataforma (llamada "Vaus") para hacer rebotar la pelota y destruir plataformas, destruyes todas y pasas al siguiente nivel. 
+
 ![Demostración del Juego](arkanod.gif)
+
 ![Demostración del Juego](arkanod2.gif)
+
 # Proyecto Unity - Versión Construida
 
 Este repositorio contiene **únicamente** la versión final construida del juego y **no** el código fuente ni los recursos utilizados para desarrollarlo.
